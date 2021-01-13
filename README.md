@@ -1,2 +1,0 @@
-# WenzhengLi.github.io
-Blog
