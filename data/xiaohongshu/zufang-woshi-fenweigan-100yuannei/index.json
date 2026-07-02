@@ -1,0 +1,27 @@
+{
+  "keyword": "租房 卧室 氛围感 100元内",
+  "slug": "zufang-woshi-fenweigan-100yuannei",
+  "aliases": [
+    "卧室落地灯 平价",
+    "夜晚氛围灯 卧室",
+    "床头小夜灯 充电"
+  ],
+  "category": "氛围感",
+  "room_position": "卧室",
+  "search_intent": "找到低预算、适合卧室的租房氛围感好物",
+  "constraints": [
+    "100元内",
+    "平价",
+    "实拍",
+    "小户型"
+  ],
+  "collection_status": "planned",
+  "updated_at": "2026-07-02",
+  "summary": {
+    "target_count": 5,
+    "valid_count": 0,
+    "suspect_count": 0,
+    "invalid_count": 0
+  },
+  "items": []
+}

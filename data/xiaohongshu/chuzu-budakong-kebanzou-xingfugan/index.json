@@ -1,0 +1,207 @@
+{
+  "keyword": "出租屋 不打孔 可搬走 提升幸福感",
+  "slug": "chuzu-budakong-kebanzou-xingfugan",
+  "aliases": [
+    "租房 可搬走好物",
+    "出租屋不打孔改造",
+    "出租屋提升幸福感好物"
+  ],
+  "category": "通用入口",
+  "room_position": "全屋",
+  "search_intent": "找到租房友好、低破坏、可搬走的幸福感好物",
+  "constraints": [
+    "不打孔",
+    "可搬走",
+    "平价",
+    "实拍"
+  ],
+  "collection_status": "ready",
+  "updated_at": "2026-07-02",
+  "summary": {
+    "target_count": 5,
+    "valid_count": 5,
+    "suspect_count": 1,
+    "invalid_count": 0
+  },
+  "items": [
+    {
+      "id": "001",
+      "note_title": "1000元搞定出租屋！好物清单🧾",
+      "note_url": "https://www.xiaohongshu.com/explore/69b537d8000000001e00f71d",
+      "item_name": "出租屋平价好物清单",
+      "item_type": "软装、灯光、收纳、小家具",
+      "reason": "正文明确提到无广、纯自费自用、不打孔、不破坏墙面、退房直接带走，适合低成本提升出租屋幸福感。",
+      "rental_constraints": [
+        "不打孔",
+        "不破坏墙面",
+        "可搬走",
+        "平价"
+      ],
+      "like_count": 829,
+      "favorite_count": null,
+      "comment_count": 111,
+      "real_comment_count": 4,
+      "authenticity_status": "valid",
+      "invalid_reason": "",
+      "author_check": "作者正文自述纯自费自用；页面可见作者多次回复评论，暂未发现明显互评刷屏证据。",
+      "comment_user_check": "可见评论包含沙发舒服吗、地毯怎么样、求链接等具体追问，计为真实使用兴趣反馈。",
+      "images": [
+        "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/001-cover.webp"
+      ],
+      "cover_image": "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/001-cover.webp",
+      "image_source_url": "https://sns-webpic-qc.xhscdn.com/202607021316/5a76bf88e6d8c153b3198c0c01df4a87/notes_pre_post/1040g3k831tml2rekn8ag5ns34tkg8crqcie9be8!nc_n_webp_mw_1",
+      "image_collection_status": "search_card_collected",
+      "collected_at": "2026-07-02",
+      "notes": "具体物品包括地毯、灯、收纳、装饰、小家具；原笔记详情页当前返回暂时无法浏览，封面图来自小红书搜索结果卡片。",
+      "like_count_display": "829",
+      "like_count_source": "xiaohongshu_search_card",
+      "like_count_collected_at": "2026-07-02",
+      "like_count_evidence": "1000元搞定出租屋！好物清单🧾 慌慌有点小懒 03-14 829"
+    },
+    {
+      "id": "002",
+      "note_title": "「租房党狂喜」不伤墙也能兼备氛围感×实用性",
+      "note_url": "https://www.xiaohongshu.com/explore/6921ea27000000001b03008f",
+      "item_name": "沙发后窄置物架、吸盘挂钩、吸盘置物架、磁吸架、落地灯",
+      "item_type": "收纳、灯光、软装",
+      "reason": "正文按装饰、收纳、个性表达拆解不伤墙方案，强调把打孔需求降级为落地、磁吸、吸盘、免钉方案。",
+      "rental_constraints": [
+        "不伤墙",
+        "吸盘",
+        "磁吸",
+        "免钉",
+        "可搬走"
+      ],
+      "like_count": 880,
+      "favorite_count": null,
+      "comment_count": 23,
+      "real_comment_count": 5,
+      "authenticity_status": "valid",
+      "invalid_reason": "",
+      "author_check": "内容为个人租房方案复盘，有具体实战方案和作者回复，暂未发现纯营销号特征。",
+      "comment_user_check": "可见评论追问置物架是否不方便、是否容易掉，作者回复使用稳定，属于有效真实反馈。",
+      "images": [
+        "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/002-cover.webp"
+      ],
+      "cover_image": "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/002-cover.webp",
+      "image_source_url": "https://sns-webpic-qc.xhscdn.com/202607021316/ccd66c848e95e98222586b6759dacc74/notes_pre_post/1040g3k831p6puvo12s104a50pqo05c6tfvj9m9g!nc_n_webp_mw_1",
+      "image_collection_status": "search_card_collected",
+      "collected_at": "2026-07-02",
+      "notes": "特别适合提炼成不伤墙墙面替代方案；原笔记详情页当前返回暂时无法浏览，封面图来自小红书搜索结果卡片。",
+      "like_count_display": "880",
+      "like_count_source": "xiaohongshu_search_card",
+      "like_count_collected_at": "2026-07-02",
+      "like_count_evidence": "「租房党狂喜」不伤墙也能兼备氛围感×实用性 Euphrosynē 2025-11-23 880"
+    },
+    {
+      "id": "003",
+      "note_title": "天才❗500不到竟然把小推车改成整墙餐边柜",
+      "note_url": "https://www.xiaohongshu.com/explore/69f48d6a0000000036000368",
+      "item_name": "小推车改造餐边柜、不锈钢置物架、台面置物架",
+      "item_type": "收纳、家具、餐边柜",
+      "reason": "正文说明用小推车和配件组合成餐边柜，利用原有孔位和配件实现低成本收纳，不依赖墙面硬装。",
+      "rental_constraints": [
+        "低成本",
+        "不打孔",
+        "可组合",
+        "可搬走"
+      ],
+      "like_count": 18000,
+      "favorite_count": null,
+      "comment_count": 661,
+      "real_comment_count": 3,
+      "authenticity_status": "valid",
+      "invalid_reason": "",
+      "author_check": "正文包含详细改造过程、价格和踩坑说明；评论量高且有作者补充价格信息。",
+      "comment_user_check": "可见评论包含求链接、框架价格、催更等具体反馈，计为真实互动。",
+      "images": [
+        "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/003-cover.webp"
+      ],
+      "cover_image": "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/003-cover.webp",
+      "image_source_url": "https://sns-webpic-qc.xhscdn.com/202607021316/0668878f42deea8112e1caa4ef417290/notes_uhdr/1040g3qg31vkgg166k8004a1ke1jil4hmmfitf98!nc_n_webp_mw_1",
+      "image_collection_status": "search_card_collected",
+      "collected_at": "2026-07-02",
+      "notes": "可作为可搬走餐边柜/咖啡角/收纳架方案；原笔记详情页当前返回暂时无法浏览，封面图来自小红书搜索结果卡片。",
+      "like_count_display": "1.8万",
+      "like_count_source": "xiaohongshu_search_card",
+      "like_count_collected_at": "2026-07-02",
+      "like_count_evidence": "天才❗500不到竟然把小推车改成整墙餐边柜 阿信的小屋🥕 05-01 1.8万"
+    },
+    {
+      "id": "004",
+      "note_title": "不打洞🔨1m²公租房卫生间改造",
+      "note_url": "https://www.xiaohongshu.com/explore/67d14d2a000000002902ddc5",
+      "item_name": "浴室置物架、收纳柜、收纳筐、壁挂收纳",
+      "item_type": "浴室收纳",
+      "reason": "正文强调公租房卫生间不打洞改造，用置物架、收纳柜和收纳筐补足小空间收纳。",
+      "rental_constraints": [
+        "不打洞",
+        "小空间",
+        "收纳",
+        "公租房"
+      ],
+      "like_count": 1919,
+      "favorite_count": null,
+      "comment_count": 54,
+      "real_comment_count": 4,
+      "authenticity_status": "valid",
+      "invalid_reason": "",
+      "author_check": "内容聚焦个人公租房卫生间，作者对置物架、壁挂收纳、清洁问题有回复，暂未发现营销刷屏特征。",
+      "comment_user_check": "可见评论包含镜子下置物板、壁挂收纳筐、浴室地面清理等具体追问，计为真实需求反馈。",
+      "images": [
+        "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/004-cover.webp"
+      ],
+      "cover_image": "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/004-cover.webp",
+      "image_source_url": "https://sns-webpic-qc.xhscdn.com/202607021316/fcb9e6efa614523842ee36d755650b84/notes_pre_post/1040g3k831eu2sorim0705oktr538cgdiiqakmsg!nc_n_webp_mw_1",
+      "image_collection_status": "search_card_collected",
+      "collected_at": "2026-07-02",
+      "notes": "适合厕所/浴室位置分组；原笔记详情页当前返回暂时无法浏览，封面图来自小红书搜索结果卡片。",
+      "like_count_display": "1919",
+      "like_count_source": "xiaohongshu_search_card",
+      "like_count_collected_at": "2026-07-02",
+      "like_count_evidence": "不打洞🔨1m²公租房卫生间改造 blueeyes 2025-03-12 1919"
+    },
+    {
+      "id": "005",
+      "note_title": "租房而已🏡不过度改造也能干净整洁",
+      "note_url": "https://www.xiaohongshu.com/explore/6a1fbff900000000080020c7",
+      "item_name": "货架衣柜、九宫格收纳柜、免打孔百叶帘、过滤龙头、多功能挂篮",
+      "item_type": "收纳、窗帘、浴室/厨房小物",
+      "reason": "正文明确强调租房不用过度改造，只留实用好物，覆盖收纳、免打孔百叶帘、过滤龙头和多功能挂篮。",
+      "rental_constraints": [
+        "不过度改造",
+        "免打孔",
+        "平价",
+        "实用"
+      ],
+      "like_count": 489,
+      "favorite_count": null,
+      "comment_count": 40,
+      "real_comment_count": 5,
+      "authenticity_status": "valid",
+      "invalid_reason": "",
+      "author_check": "内容围绕租房实用物品展开，有具体物品与作者回复链接/用途，暂未发现刷屏特征。",
+      "comment_user_check": "可见评论追问九宫格收纳、过滤龙头、衣柜帘子、收纳袋垫高方式等，计为真实反馈。",
+      "images": [
+        "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/005-cover.webp"
+      ],
+      "cover_image": "data/xiaohongshu/chuzu-budakong-kebanzou-xingfugan/images/005-cover.webp",
+      "image_source_url": "https://sns-webpic-qc.xhscdn.com/202607021316/126b1049ae8205efec26a2a240d3dbe2/notes_uhdr/1040g3qg320umd817na005npmgc008h07a3jd7a0!nc_n_webp_mw_1",
+      "image_collection_status": "search_card_collected",
+      "collected_at": "2026-07-02",
+      "notes": "适合实用收纳和不过度改造主题；原笔记详情页当前返回暂时无法浏览，封面图来自小红书搜索结果卡片。",
+      "like_count_display": "489",
+      "like_count_source": "xiaohongshu_search_card",
+      "like_count_collected_at": "2026-07-02",
+      "like_count_evidence": "租房而已🏡不过度改造也能干净整洁 五月七 06-09 489"
+    }
+  ],
+  "rejected_items": [
+    {
+      "note_title": "租房党必看：免打孔洞洞板，搬家也能带走",
+      "note_url": "https://www.xiaohongshu.com/explore/6868872d0000000017030c54",
+      "status": "suspect",
+      "reason": "标题强调免打孔，但正文提到自带粘胶 + 膨胀螺丝，评论也质疑膨胀螺丝是否要打进墙里，与租房无损限制冲突。"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-07-02",
+  "source": "xiaohongshu",
+  "keywords": [
+    {
+      "keyword": "出租屋 不打孔 可搬走 提升幸福感",
+      "slug": "chuzu-budakong-kebanzou-xingfugan",
+      "category": "通用入口",
+      "room_position": "全屋",
+      "item_count": 5,
+      "index_json": "chuzu-budakong-kebanzou-xingfugan/index.json",
+      "cover_image": "",
+      "status": "ready"
+    },
+    {
+      "keyword": "租房 卧室 氛围感 100元内",
+      "slug": "zufang-woshi-fenweigan-100yuannei",
+      "category": "氛围感",
+      "room_position": "卧室",
+      "item_count": 0,
+      "index_json": "zufang-woshi-fenweigan-100yuannei/index.json",
+      "cover_image": "",
+      "status": "planned"
+    },
+    {
+      "keyword": "出租屋 收纳 实用 不占地",
+      "slug": "chuzu-shouna-shiyong-buzhandi",
+      "category": "实用",
+      "room_position": "全屋",
+      "item_count": 0,
+      "index_json": "chuzu-shouna-shiyong-buzhandi/index.json",
+      "cover_image": "",
+      "status": "planned"
+    }
+  ]
+}

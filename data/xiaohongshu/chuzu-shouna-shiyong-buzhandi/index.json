@@ -1,0 +1,27 @@
+{
+  "keyword": "出租屋 收纳 实用 不占地",
+  "slug": "chuzu-shouna-shiyong-buzhandi",
+  "aliases": [
+    "出租屋收纳神器 免打孔",
+    "小户型窄缝收纳",
+    "租房收纳 不占地"
+  ],
+  "category": "实用",
+  "room_position": "全屋",
+  "search_intent": "找到适合小户型出租屋的实用收纳方案",
+  "constraints": [
+    "不占地",
+    "小户型",
+    "实用",
+    "买家秀"
+  ],
+  "collection_status": "planned",
+  "updated_at": "2026-07-02",
+  "summary": {
+    "target_count": 5,
+    "valid_count": 0,
+    "suspect_count": 0,
+    "invalid_count": 0
+  },
+  "items": []
+}
