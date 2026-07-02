@@ -6,7 +6,7 @@
     "出租屋不打孔改造",
     "出租屋提升幸福感好物"
   ],
-  "category": "通用入口",
+  "category": "租房无损改造",
   "room_position": "全屋",
   "search_intent": "找到租房友好、低破坏、可搬走的幸福感好物",
   "constraints": [
@@ -56,7 +56,13 @@
       "like_count_display": "829",
       "like_count_source": "xiaohongshu_search_card",
       "like_count_collected_at": "2026-07-02",
-      "like_count_evidence": "1000元搞定出租屋！好物清单🧾 慌慌有点小懒 03-14 829"
+      "like_count_evidence": "1000元搞定出租屋！好物清单🧾 慌慌有点小懒 03-14 829",
+      "content_tags": [
+        "软装清单",
+        "灯光氛围",
+        "收纳组合",
+        "小家具"
+      ]
     },
     {
       "id": "002",
@@ -91,7 +97,13 @@
       "like_count_display": "880",
       "like_count_source": "xiaohongshu_search_card",
       "like_count_collected_at": "2026-07-02",
-      "like_count_evidence": "「租房党狂喜」不伤墙也能兼备氛围感×实用性 Euphrosynē 2025-11-23 880"
+      "like_count_evidence": "「租房党狂喜」不伤墙也能兼备氛围感×实用性 Euphrosynē 2025-11-23 880",
+      "content_tags": [
+        "墙面替代方案",
+        "吸盘磁吸",
+        "落地灯",
+        "客厅收纳"
+      ]
     },
     {
       "id": "003",
@@ -125,7 +137,13 @@
       "like_count_display": "1.8万",
       "like_count_source": "xiaohongshu_search_card",
       "like_count_collected_at": "2026-07-02",
-      "like_count_evidence": "天才❗500不到竟然把小推车改成整墙餐边柜 阿信的小屋🥕 05-01 1.8万"
+      "like_count_evidence": "天才❗500不到竟然把小推车改成整墙餐边柜 阿信的小屋🥕 05-01 1.8万",
+      "content_tags": [
+        "餐边柜改造",
+        "小推车",
+        "厨房收纳",
+        "低成本DIY"
+      ]
     },
     {
       "id": "004",
@@ -159,7 +177,13 @@
       "like_count_display": "1919",
       "like_count_source": "xiaohongshu_search_card",
       "like_count_collected_at": "2026-07-02",
-      "like_count_evidence": "不打洞🔨1m²公租房卫生间改造 blueeyes 2025-03-12 1919"
+      "like_count_evidence": "不打洞🔨1m²公租房卫生间改造 blueeyes 2025-03-12 1919",
+      "content_tags": [
+        "浴室收纳",
+        "小卫生间",
+        "置物架",
+        "公租房"
+      ]
     },
     {
       "id": "005",
@@ -193,7 +217,13 @@
       "like_count_display": "489",
       "like_count_source": "xiaohongshu_search_card",
       "like_count_collected_at": "2026-07-02",
-      "like_count_evidence": "租房而已🏡不过度改造也能干净整洁 五月七 06-09 489"
+      "like_count_evidence": "租房而已🏡不过度改造也能干净整洁 五月七 06-09 489",
+      "content_tags": [
+        "全屋收纳",
+        "衣柜扩容",
+        "免打孔窗帘",
+        "厨房浴室小物"
+      ]
     }
   ],
   "rejected_items": [
@@ -203,5 +233,12 @@
       "status": "suspect",
       "reason": "标题强调免打孔，但正文提到自带粘胶 + 膨胀螺丝，评论也质疑膨胀螺丝是否要打进墙里，与租房无损限制冲突。"
     }
+  ],
+  "content_tags": [
+    "不打孔",
+    "可搬走",
+    "低成本",
+    "实拍好物",
+    "租房友好"
   ]
 }

@@ -6,7 +6,7 @@
 |---|---|
 | keyword | 出租屋 不打孔 可搬走 提升幸福感 |
 | slug | chuzu-budakong-kebanzou-xingfugan |
-| category | 通用入口 |
+| category | 租房无损改造 |
 | room_position | 全屋 |
 | search_intent | 找到租房友好、低破坏、可搬走的幸福感好物 |
 | collection_status | planned |
